@@ -9,5 +9,5 @@
     "declarationMap": true
   },
   "include": ["src"],
-  "exclude": ["node_modules", "src/*/templates"]
+  "exclude": ["./node_modules", "src/*/templates", "./tests/"]
 }
